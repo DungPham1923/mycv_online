@@ -8,7 +8,6 @@ const Projects = () => {
         <span className="text-warning">Pro</span>
         <span className="text-light">ject</span>
       </div>
-      {/* <button className="front__end funix">2024</button> */}
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-8 d-flex justify-content-end">

@@ -53,10 +53,10 @@ const About = () => {
               </p>
             </div>
             <div className="col-10 text-warning text-right text_info">
-              <p>phamdung2672004@gmail.com</p>
-              <p>+84-981-153-101</p>
+              <p> <a href="/">phamdung2672004@gmail.com</a></p>
+              <p> <a href="/">+84 981 153 101</a></p>
               <p>
-                <a href="www.facebook.com/PhamAnhDung.Dev19">Phạm Anh Dũng</a>
+                <a href="https://www.facebook.com/PhamAnhDung.Dev19">Phạm Anh Dũng</a>
               </p>
               <p>
                 <a href="https://github.com/DungPham1923">DungPham.Dev</a>

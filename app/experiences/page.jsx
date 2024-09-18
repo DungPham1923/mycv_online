@@ -57,9 +57,6 @@ const Experience = () => {
           </div>
         </div>
       </div>
-
-
-      {/* <button className="front__end funix">ABC</button> */}
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
