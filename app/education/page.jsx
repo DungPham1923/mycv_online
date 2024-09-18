@@ -13,7 +13,7 @@ const Education = () => {
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
-          <img
+          <Image
             src="/school/fptuniversity.png"
             alt=""
             width="200"
