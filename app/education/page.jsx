@@ -32,9 +32,9 @@ const Education = () => {
               2021 - 2025
             </div>
             <p className="text-light mt-2">
-              /// 3rd year student at FPT University Hanoi.
+              3rd year student at FPT University Hanoi.
             </p>
-            <p className="text-light mt-2">/// GPA 3.62/4</p>
+            <p className="text-light mt-2">GPA 3.62/4</p>
           </div>
         </div>
       </div>
