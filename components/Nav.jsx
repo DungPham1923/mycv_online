@@ -12,7 +12,7 @@ const Nav = () => {
         <img src="/dungdev.jpg" alt="Profile_image_of_DungDev" />
       </div>
       <div className="navigation_bar">
-        <Link href="/home">
+        <Link href="/">
           <div className="snip1582">
             <i className="fa fa-home"></i>
           </div>

@@ -12,7 +12,7 @@ const RootLayout = ({ children }) => {
   return (
     <html lang="en">
       <body>
-        <Nav />
+        <Nav/>
         {children}
       </body>
     </html>

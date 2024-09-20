@@ -12,7 +12,7 @@ const Experience = () => {
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
-          <img src="/java.png" alt="" width="200" height="120" />
+          <img src="/java.png" alt="" width="150" height="150" />
         </div>
 
         <div className="col-7">
@@ -37,7 +37,7 @@ const Experience = () => {
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
-          <img src="/csharp.png" alt="" width="200" height="120" />
+          <img src="/csharp.png" alt="" width="150" height="150" />
         </div>
 
         <div className="col-7">
@@ -60,7 +60,7 @@ const Experience = () => {
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
-          <Image src="/reactjs.svg" alt="" width="200" height="120" />
+          <Image src="/reactjs.svg" alt="" width="150" height="150" />
         </div>
 
         <div className="col-7">
@@ -85,12 +85,12 @@ const Experience = () => {
       <div className="row mt-5 container-fluid">
         <div className="col-2"></div>
         <div className="col-3 d-flex justify-content-end">
-          <img src="/nextjs.png" alt="" width="200" height="120" />
+          <img src="/nextjs.png" alt="" width="150" height="150" />
         </div>
 
         <div className="col-7">
           <div className="container">
-            <h3 className="text-warning">
+            <h3 className="text-warning" style={{ color: "#007BFF" }}>
               Front-End Web developer with NextJs
             </h3>
             <div
